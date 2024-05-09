@@ -1,6 +1,6 @@
 ---
 - name: Install Apache web server
-  hosts: 13.201.82.78
+  hosts: localhost
   become: yes
 
   tasks:

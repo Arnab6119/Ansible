@@ -1,6 +1,6 @@
 ---
 - name: 1st
-  hosts: localhost
+  hosts: 13.201.82.78
   become: yes
 
   tasks:
